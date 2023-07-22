@@ -1,6 +1,6 @@
 # Codingfizz
 
-![Logo](logo.png)
+![Logo](codingfizz.png)
 
 ## Introduction
 
